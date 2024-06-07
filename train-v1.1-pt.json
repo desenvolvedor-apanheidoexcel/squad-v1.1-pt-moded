@@ -1,0 +1,739 @@
+{
+	"data": [{
+			"title": "Meu diário de atividades",
+			"paragraphs": [
+				{
+					"context": "No dia 01/05/2024 às 07:00 comecei a treinar com personal na academia. Treino foi de pernas e quando acabou me senti cansado. Precisei descer de elevador para ir embora porque minhas pernas estavam fracas.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Que dia comecei a treinar na academia?",
+							"id": "509eb67d6c83bcf28fcf4821",
+							"question_original": "What day did I start training at the gym?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Que dia treinei pernas?",
+							"id": "509eb67d6c83bcf28fcf4823",
+							"question_original": "What day did I train legs?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Quando precisei descer de elevador para ir embora?",
+							"id": "509eb67d6c83bcf28fcf4825",
+							"question_original": "When did I need to take the elevator down to leave?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"text": "07:00",
+									"answer_start_original": 17,
+									"text_original": "07:00"
+								}
+							],
+							"question": "Que horas foi o treino com o personal da academia?",
+							"id": "509eb67d6c83bcf28fcf4827",
+							"question_original": "What time was the training with the gym staff?"
+						}
+					],
+					"context_original": "On 05/01/2024 at 07:00 I started training with personal trainers at the gym. Training was for legs and when it ended I felt tired. I had to take the elevator down to leave because my legs were weak."
+				},
+				{
+					"context": "No dia 30/05/2024 às 08:22 foi feriado de Corpos Christi e eu fiquei em casa sem fazer nada. Assiste filme, estudei um pouco. A noite eu vou sair com a família.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 30/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/30/2024"
+								}
+							],
+							"question": "Quando foi feriado de Corpos Christi?",
+							"id": "509eb67d6c83bcf28fcf4829",
+							"question_original": "When was Corpus Christi holiday?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 62,
+									"text": "fiquei em casa sem fazer nada",
+									"answer_start_original": 61,
+									"text_original": "stayed at home doing nothing"
+								}
+							],
+							"question": "O que fiz no feriado de corpus christi?",
+							"id": "509eb67d6c83bcf28fcf482b",
+							"question_original": "What did I do on Corpus Christi holiday?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 30/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/30/2024"
+								}
+							],
+							"question": "Que dia eu sai com a família?",
+							"id": "509eb67d6c83bcf28fcf482d",
+							"question_original": "What day do I go out with the family?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"text": "08:22",
+									"answer_start_original": 17,
+									"text_original": "08:22"
+								}
+							],
+							"question": "Que horas foi registrado o feriado de Corpos Christi?",
+							"id": "509eb67d6c83bcf28fcf482f",
+							"question_original": "What time was the Corpus Christi holiday recorded?"
+						}
+					],
+					"context_original": "On 05/30/2024 at 08:22 it was the Corpos Christi holiday and I stayed at home doing nothing. Watch a movie, I studied a little. At night I'm going out with the family."
+				},
+				{
+					"context": "No dia 10/06/2024 às 10:00 agendada entrevista com o cliente Felipe para apresentar o projeto final.",
+					"context_original": "On 06/10/2024 at 10:00 an interview was scheduled with the client Felipe to present the final project.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 10/06/2024 às 10:00",
+									"text_original": "On 06/10/2024 at 10:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4831",
+							"question": "Quando foi agendada a entrevista com o cliente?",
+							"question_original": "When was the client interview scheduled?"
+						}
+					]
+				},
+				{
+					"context": "No dia 29/05/2024 às 14:00 marquei a consulta com nutricionista. Ela me cobrou o valor de R$300,00 pela consulta.",
+					"context_original": "On 05/29/2024 at 2:00 pm I made an appointment with a nutritionist. She charged me $300,00 for the consultation.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 29/05/2024 às 14:00",
+									"text_original": "On 05/29/2024 at 2:00 pm"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4833",
+							"question": "Quando marquei a consulta com nutricionista?",
+							"question_original": "When did I make an appointment with a nutritionist?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 90,
+									"answer_start_original": 83,
+									"text": "R$300,00",
+									"text_original": "$300,00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4835",
+							"question": "Qual o valor da consulta com a nutricionista?",
+							"question_original": "What is the cost of a consultation with a nutritionist?"
+						}
+					]
+				},
+				{
+					"context": "No dia 09/04/2023 às 09:20 hoje meu café da manhã foi ovos mexidos com vitamina. Fiz uma aula de luta e corri na esteira. Depois abasteci o carro e paguei R$63 de gasolina.",
+					"context_original": "On 04/09/2023 at 09:20 today my breakfast was scrambled eggs with vitamin. I took a fighting class and ran on the treadmill. Then I filled up the car and paid $63 for gas.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 54,
+									"answer_start_original": 46,
+									"text": "ovos mexidos com vitamina",
+									"text_original": "scrambled eggs with vitamin"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4837",
+							"question": "O que foi meu café da manhã no dia 09/04?",
+							"question_original": "What was my breakfast on 4/9?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 89,
+									"answer_start_original": 84,
+									"text": "aula de luta",
+									"text_original": "fighting class"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4839",
+							"question": "Que aula fiz no dia 09/04/2024?",
+							"question_original": "What class did I take on 04/09/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 155,
+									"answer_start_original": 159,
+									"text": "R$63",
+									"text_original": "$63"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf483b",
+							"question": "Quanto paguei no abastecimento do carro?",
+							"question_original": "How much did I pay to fill up the car?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"answer_start_original": 17,
+									"text": "09:20",
+									"text_original": "09:20"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf483d",
+							"question": "Que horas corri na esteira?",
+							"question_original": "What time did I run on the treadmill?"
+						}
+					]
+				},
+				{
+					"context": "No dia 24/12/2024 às 16:00 visitei a igreja de São Judas Tadeu e assisti a missa. Me senti muito emocionado e feliz.  O padre Candinho foi quem celebrou a missa neste dia.",
+					"context_original": "On 12/24/2024 at 4:00 pm I visited the church of São Judas Tadeu and attended mass. I felt very excited and happy. Father Candinho was the one who celebrated mass on that day.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 24/12/2024",
+									"text_original": "On 12/24/2024"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf483f",
+							"question": "Quando visitei a igreja de São Judas?",
+							"question_original": "When did I visit St. Jude's church?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 91,
+									"answer_start_original": 91,
+									"text": "muito emocionado e feliz",
+									"text_original": "very excited and happy"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4841",
+							"question": "Como me senti na visita a igreja de São Judas?",
+							"question_original": "How did I feel visiting the church of São Judas?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 126,
+									"answer_start_original": 122,
+									"text": "Candinho",
+									"text_original": "Candinho"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4843",
+							"question": "Quem celebrou a missa na igreja de São Judas?",
+							"question_original": "Who celebrated mass at St. Jude's Church?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"answer_start_original": 17,
+									"text": "16:00",
+									"text_original": "4:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4845",
+							"question": "Que horas foi a missa na igreja de São Judas?",
+							"question_original": "What time was mass at St. Jude's Church?"
+						}
+					]
+				},{
+					"context": "No dia 20/04/2023 às 10:00 levei meu carro na oficina consertar os freios. O conserto ficou em R$120,00. Paguei o conserto com cartão de crédito.",
+					"context_original": "On 04/20/2023 at 10:00 I took my car to the workshop to have the brakes repaired. The repair cost $120.00. I paid for the repair with a credit card.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 20/04/2023",
+									"text_original": "On 04/20/2023"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4847",
+							"question": "Que dia levei meu carro na oficina?",
+							"question_original": "What day did I take my car to the mechanic?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 95,
+									"answer_start_original": 98,
+									"text": "R$120,00",
+									"text_original": "$120.00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4849",
+							"question": "Quanto ficou o conserto do carro?",
+							"question_original": "How much did the car repair cost?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 127,
+									"answer_start_original": 136,
+									"text": "cartão de crédito",
+									"text_original": "credit card"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf484b",
+							"question": "Como paguei o conserto do carro?",
+							"question_original": "How did I pay for car repairs?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"answer_start_original": 17,
+									"text": "10:00",
+									"text_original": "10:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf484d",
+							"question": "Que horas levei meu carro na oficina?",
+							"question_original": "What time did I take my car to the mechanic"
+						}
+					]
+				},{
+					"context": "No dia 03/04/2023 às 10:00 fui à consulta médica para exames de rotina. No dia 03/04/2023 às 11:00 marquei exames no laboratório. No dia 03/04/2023 às 12:00 almocei peixe com batatas fritas. No dia 03/04/2023 às 14:00 fiz uma entrevista com o cliente Amir. No dia 03/04/2023 às 19:00 treino na academia de luta.",
+					"context_original": "On 04/03/2023 at 10:00 I went to the doctor's appointment for routine exams. On 04/03/2023 at 11:00 I scheduled tests at the laboratory. On 04/03/2023 at 12:00 I had fish and chips for lunch. On 04/03/2023 at 2:00 pm I had an interview with the client Amir. On 04/03/2023 at 7:00 pm I train at the fight gym.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 72,
+									"answer_start_original": 77,
+									"text": "No dia 03/04/2023",
+									"text_original": "On 04/03/2023"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf484f",
+							"question": "Quando marquei exames?",
+							"question_original": "When did I schedule exams?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"answer_start_original": 17,
+									"text": "10:00",
+									"text_original": "10:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4851",
+							"question": "Que foras foi a consulta médica?",
+							"question_original": "What was the medical appointment like?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 165,
+									"answer_start_original": 166,
+									"text": "peixe com batatas fritas",
+									"text_original": "fish and chips"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4853",
+							"question": "O que almocei no dia 03/04/2024?",
+							"question_original": "What did I have for lunch on 04/03/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 191,
+									"answer_start_original": 192,
+									"text": "No dia 03/04/2023",
+									"text_original": "On 04/03/2023"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4855",
+							"question": "Qual foi o dia da entrevista com Amir?",
+							"question_original": "What was the day of the interview with Amir?"
+						}
+					]
+				},{
+					"context": "No dia 17/07/2024 às 05:30 levantei para tomar meu banho. No dia 17/07/2024 às 06:30 sai de casa e dirige para o trabalho. O transito estava engarrafado. No dia 17/07/2024 às 07:55 fui abastecer o carro. Paguei R$50,00 de gasolina. No dia 17/07/2024 às 08:10 cheguei no trabalho. No dia 17/07/2024 às 09:00 entrevista marcada com o chefe.",
+					"context_original": "On 07/17/2024 at 5:30 am I got up to take my shower. On 07/17/2024 at 06:30 he leaves the house and drives to work. The traffic was jammed. On 07/17/2024 at 07:55 I went to fill up the car. I paid $50.00 for gasoline. On 07/17/2024 at 08:10 I arrived at work. On 07/17/2024 at 09:00 interview scheduled with the boss.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 79,
+									"answer_start_original": 70,
+									"text": "06:30",
+									"text_original": "06:30"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4857",
+							"question": "Que horas sai de casa no dia 17/07/24?",
+							"question_original": "What time do you leave home on 07/17/24?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 141,
+									"answer_start_original": 132,
+									"text": "engarrafado",
+									"text_original": "jammed"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4859",
+							"question": "Como estava o trânsito no dia 17/07/24?",
+							"question_original": "What was the traffic like on 07/17/24?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 211,
+									"answer_start_original": 197,
+									"text": "R$50,00",
+									"text_original": "$50.00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf485b",
+							"question": "Quanto paguei de gasolina no dia 17/07/2024?",
+							"question_original": "How much did I pay for gasoline on 07/17/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 253,
+									"answer_start_original": 235,
+									"text": "08:10",
+									"text_original": "08:10"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf485d",
+							"question": "Que horas cheguei no trabalho no dia 17/04/2024?",
+							"question_original": "What time did I arrive at work on 04/17/2024?"
+						}
+					]
+				},{
+					"context": "No dia 22/02/2020 às 14:30 fui a igreja fazer minhas orações. No dia 23/02/2024 às 09:00 comecei a ler um livro de histórias. No dia 17/03/2024 às 16:20 terminei de ler o livro de histórias. No dia 20/03/2024 às 10:02 liguei para minha amiga para dar parabéns. É o aniversário dela. ",
+					"context_original": "On 02/22/2020 at 2:30 pm I went to church to say my prayers. On 02/23/2024 at 9:00 am I started reading a storybook. On 03/17/2024 at 4:20 pm I finished reading the storybook. On 03/20/2024 at 10:02 I called my friend to congratulate her. It's her birthday.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 62,
+									"answer_start_original": 61,
+									"text": "No dia 23/02/2024",
+									"text_original": "On 02/23/2024"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf485f",
+							"question": "Que dia comecei a ler o livro?",
+							"question_original": "What day did I start reading the book?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 62,
+									"answer_start_original": 61,
+									"text": "No dia 23/02/2024 às 09:00",
+									"text_original": "On 02/23/2024 at 9:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4861",
+							"question": "Quando comecei a ler o livro?",
+							"question_original": "When did I start reading the book?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 31,
+									"answer_start_original": 35,
+									"text": "a igreja",
+									"text_original": "church"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4863",
+							"question": "Aonde fui no dia 22/02/2020?",
+							"question_original": "Where did I go on 02/22/2020?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 46,
+									"answer_start_original": 49,
+									"text": "minhas orações",
+									"text_original": "my prayers"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4865",
+							"question": "O que fui fazer na igreja no dia 22/02/20?",
+							"question_original": "What did I go to church on 02/22/20?"
+						},						{
+							"answers": [
+								{
+									"answer_start": 212,
+									"answer_start_original": 235,
+									"text": "10:02",
+									"text_original": "10:02"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4867",
+							"question": "Que horas liguei para minha amiga no aniversario dela?",
+							"question_original": "What time did I call my friend on her birthday?"
+						}
+					]
+				},{
+					"context": "No dia 10/04/2024 às 06:28 hoje acordei com uma sensação estranha. Levantei e fui para escola. No dia 10/04/2024 às 07:25 não teve aula porque o professor faltou. No dia 11/04/2024 às 09:30 no intervalo fui lanchar suco com salgado. Paguei R$18,24 no lanche. No dia 11/04/2024 às 14:30 liguei a tv para assistir uma série.",
+					"context_original": "On 04/10/2024 at 06:28 today I woke up with a strange feeling. I got up and went to school. On 04/10/2024 at 07:25 there was no class because the teacher was absent. On 04/11/2024 at 9:30 am during the break I went for a snack of juice and salt. I paid $18.24 for the snack. On 04/11/2024 at 2:30 pm I turned on the TV to watch a series",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 48,
+									"answer_start_original": 46,
+									"text": "sensação estranha",
+									"text_original": "strange feeling"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4869",
+							"question": "Como acordei no dia 10/04/2024?",
+							"question_original": "How did I wake up on 04/10/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 145,
+									"answer_start_original": 146,
+									"text": "professor faltou",
+									"text_original": "teacher was absent"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf486b",
+							"question": "Porque não teve aula no dia 10/04/2024?",
+							"question_original": "Why weren't there classes on 04/10/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 215,
+									"answer_start_original": 212,
+									"text": "suco com salgado",
+									"text_original": "juice and salt"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf486d",
+							"question": "No dia 11/04/24 o que lanchei?",
+							"question_original": "On 04/11/24, what did I have for lunch?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 280,
+									"answer_start_original": 293,
+									"text": "14:30",
+									"text_original": "2:30 pm"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf486f",
+							"question": "No dia 11/04/24 que horas fui assistir a série?",
+							"question_original": "On 04/11/24, what time did I go to watch the series?"
+						},						{
+							"answers": [
+								{
+									"answer_start": 240,
+									"answer_start_original": 253,
+									"text": "R$18,24",
+									"text_original": "$18.24"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4871",
+							"question": "No dia 11/04/2024 quanto custou o lanche?",
+							"question_original": "On 04/11/2024, how much did the snack cost?"
+						}
+					]
+				},{
+					"context": "No dia 06/06/2024 às 09:45 atende um cliente frustrado por comer muito doce. Seu problema é de causa mais emocional. No dia 06/06/2024 às 11:25 conversei com cliente sobre saúde pessoal e mental relacionado com alimentação. No dia 07/06/2024 às 08:45  dediquei um tempo para revisar estudos recentes sobre alimentação funcional.",
+					"context_original": "On 06/06/2024 at 09:45 you see a customer who is frustrated because he eats too much sweets. Your problem has a more emotional cause. On 06/06/2024 at 11:25 am I spoke with a client about personal and mental health related to food. On 06/07/2024 at 08:45 I took time to review recent studies on functional nutrition.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 06/06/2024",
+									"text_original": "On 06/06/2024"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4873",
+							"question": "Que dia atendi um cliente frustrado por comer muito doce?",
+							"question_original": "What day did I see a customer who was frustrated because he ate too much sweets?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 55,
+									"answer_start_original": 71,
+									"text": "por comer muito doce",
+									"text_original": "eats too much sweets"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4875",
+							"question": "Qual era a causa do cliente estar frustrado?",
+							"question_original": "What was the cause of the customer being frustrated?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 166,
+									"answer_start_original": 182,
+									"text": "sobre saúde pessoal e mental relacionado com alimentação",
+									"text_original": "about personal and mental health related to food"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4877",
+							"question": "O que conversei com o cliente no dia 06/06/24?",
+							"question_original": "What did I talk about with the customer on 06/06/24?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 306,
+									"answer_start_original": 295,
+									"text": "alimentação funcional",
+									"text_original": "functional nutrition"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4879",
+							"question": "No dia 07/06/24 sobre o que fui estudar?",
+							"question_original": "On 06/07/24, what did I study?"
+						},						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"answer_start_original": 17,
+									"text": "09:45",
+									"text_original": "09:45"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf487b",
+							"question": "Que horas atendi o cliente frustrado por comer doce do dia 06/06/24?",
+							"question_original": "What time did I see the customer who was frustrated after eating sweets on 06/06/24?"
+						}
+					]
+				},{
+					"context": "No dia 08/06/2024 às 09:00 cliente trouxe carro com problema no sistema de freios. Orçamento estimado de R$180,00. No dia 09/06/2024 às 11:15 carro rebocado para oficina com vazamento de óleo. Orçamento previsto R$400,00. No dia 10/06/2024 às 15:00 cliente preocupado com mau cheiro. Limpeza do sistema de ar condicionado R$150,00.",
+					"context_original": "On 06/08/2024 at 09:00 a customer brought a car with a problem with the brake system. Estimated budget of $180.00. On 06/09/2024 at 11:15 car towed to workshop with oil leak. Estimated budget $400.00. On 06/10/2024 at 3:00 pm customer concerned about bad smell. Cleaning the air conditioning system $150.00.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"answer_start_original": 0,
+									"text": "No dia 08/06/2024 às 09:00",
+									"text_original": "On 06/08/2024 at 09:00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf487d",
+							"question": "Qual dia um cliente trouxe carro com problema no freio?",
+							"question_original": "What day did a customer bring a car with a brake problem?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 105,
+									"answer_start_original": 106,
+									"text": "R$180,00",
+									"text_original": "$180.00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf487f",
+							"question": "Qual valor do orçamento do problema no freio do dia 08/06/2024?",
+							"question_original": "What is the budget for the brake problem on 06/08/2024?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 212,
+									"answer_start_original": 192,
+									"text": "R$400,00",
+									"text_original": "$400.00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4881",
+							"question": "Qual valor do orçamento do dia 09/06/2024 do carro com vazamento de óleo?",
+							"question_original": "What is the budget amount on 06/09/2024 for the car with an oil leak?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 322,
+									"answer_start_original": 299,
+									"text": "R$150,00",
+									"text_original": "$150.00"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4883",
+							"question": "Qual valor da limpeza do sistema de ar condicionado do dia 10/06/2024?",
+							"question_original": "What is the cost of cleaning the air conditioning system on 06/10/2024?"
+						},						{
+							"answers": [
+								{
+									"answer_start": 268,
+									"answer_start_original": 251,
+									"text": "com mau cheiro",
+									"text_original": "bad smell"
+								}
+							],
+							"id": "509eb67d6c83bcf28fcf4885",
+							"question": "No dia 10/06/24 o cliente estava preocupado com o que?",
+							"question_original": "On 06/10/24, what was the customer concerned about?"
+						}
+					]
+				}
+			]
+		}
+	],
+	"version": "1.1"
+}
