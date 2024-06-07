@@ -1,5 +1,6 @@
 {
-	"data": [{
+	"data": [
+		{
 			"title": "Meu diário de atividades",
 			"paragraphs": [
 				{
@@ -284,7 +285,8 @@
 							"question_original": "What time was mass at St. Jude's Church?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 20/04/2023 às 10:00 levei meu carro na oficina consertar os freios. O conserto ficou em R$120,00. Paguei o conserto com cartão de crédito.",
 					"context_original": "On 04/20/2023 at 10:00 I took my car to the workshop to have the brakes repaired. The repair cost $120.00. I paid for the repair with a credit card.",
 					"qas": [
@@ -341,7 +343,8 @@
 							"question_original": "What time did I take my car to the mechanic"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 03/04/2023 às 10:00 fui à consulta médica para exames de rotina. No dia 03/04/2023 às 11:00 marquei exames no laboratório. No dia 03/04/2023 às 12:00 almocei peixe com batatas fritas. No dia 03/04/2023 às 14:00 fiz uma entrevista com o cliente Amir. No dia 03/04/2023 às 19:00 treino na academia de luta.",
 					"context_original": "On 04/03/2023 at 10:00 I went to the doctor's appointment for routine exams. On 04/03/2023 at 11:00 I scheduled tests at the laboratory. On 04/03/2023 at 12:00 I had fish and chips for lunch. On 04/03/2023 at 2:00 pm I had an interview with the client Amir. On 04/03/2023 at 7:00 pm I train at the fight gym.",
 					"qas": [
@@ -398,7 +401,8 @@
 							"question_original": "What was the day of the interview with Amir?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 17/07/2024 às 05:30 levantei para tomar meu banho. No dia 17/07/2024 às 06:30 sai de casa e dirige para o trabalho. O transito estava engarrafado. No dia 17/07/2024 às 07:55 fui abastecer o carro. Paguei R$50,00 de gasolina. No dia 17/07/2024 às 08:10 cheguei no trabalho. No dia 17/07/2024 às 09:00 entrevista marcada com o chefe.",
 					"context_original": "On 07/17/2024 at 5:30 am I got up to take my shower. On 07/17/2024 at 06:30 he leaves the house and drives to work. The traffic was jammed. On 07/17/2024 at 07:55 I went to fill up the car. I paid $50.00 for gasoline. On 07/17/2024 at 08:10 I arrived at work. On 07/17/2024 at 09:00 interview scheduled with the boss.",
 					"qas": [
@@ -455,7 +459,8 @@
 							"question_original": "What time did I arrive at work on 04/17/2024?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 22/02/2020 às 14:30 fui a igreja fazer minhas orações. No dia 23/02/2024 às 09:00 comecei a ler um livro de histórias. No dia 17/03/2024 às 16:20 terminei de ler o livro de histórias. No dia 20/03/2024 às 10:02 liguei para minha amiga para dar parabéns. É o aniversário dela. ",
 					"context_original": "On 02/22/2020 at 2:30 pm I went to church to say my prayers. On 02/23/2024 at 9:00 am I started reading a storybook. On 03/17/2024 at 4:20 pm I finished reading the storybook. On 03/20/2024 at 10:02 I called my friend to congratulate her. It's her birthday.",
 					"qas": [
@@ -510,7 +515,8 @@
 							"id": "509eb67d6c83bcf28fcf4865",
 							"question": "O que fui fazer na igreja no dia 22/02/20?",
 							"question_original": "What did I go to church on 02/22/20?"
-						},						{
+						},
+						{
 							"answers": [
 								{
 									"answer_start": 212,
@@ -524,7 +530,8 @@
 							"question_original": "What time did I call my friend on her birthday?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 10/04/2024 às 06:28 hoje acordei com uma sensação estranha. Levantei e fui para escola. No dia 10/04/2024 às 07:25 não teve aula porque o professor faltou. No dia 11/04/2024 às 09:30 no intervalo fui lanchar suco com salgado. Paguei R$18,24 no lanche. No dia 11/04/2024 às 14:30 liguei a tv para assistir uma série.",
 					"context_original": "On 04/10/2024 at 06:28 today I woke up with a strange feeling. I got up and went to school. On 04/10/2024 at 07:25 there was no class because the teacher was absent. On 04/11/2024 at 9:30 am during the break I went for a snack of juice and salt. I paid $18.24 for the snack. On 04/11/2024 at 2:30 pm I turned on the TV to watch a series",
 					"qas": [
@@ -579,7 +586,8 @@
 							"id": "509eb67d6c83bcf28fcf486f",
 							"question": "No dia 11/04/24 que horas fui assistir a série?",
 							"question_original": "On 04/11/24, what time did I go to watch the series?"
-						},						{
+						},
+						{
 							"answers": [
 								{
 									"answer_start": 240,
@@ -593,7 +601,8 @@
 							"question_original": "On 04/11/2024, how much did the snack cost?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 06/06/2024 às 09:45 atende um cliente frustrado por comer muito doce. Seu problema é de causa mais emocional. No dia 06/06/2024 às 11:25 conversei com cliente sobre saúde pessoal e mental relacionado com alimentação. No dia 07/06/2024 às 08:45  dediquei um tempo para revisar estudos recentes sobre alimentação funcional.",
 					"context_original": "On 06/06/2024 at 09:45 you see a customer who is frustrated because he eats too much sweets. Your problem has a more emotional cause. On 06/06/2024 at 11:25 am I spoke with a client about personal and mental health related to food. On 06/07/2024 at 08:45 I took time to review recent studies on functional nutrition.",
 					"qas": [
@@ -648,7 +657,8 @@
 							"id": "509eb67d6c83bcf28fcf4879",
 							"question": "No dia 07/06/24 sobre o que fui estudar?",
 							"question_original": "On 06/07/24, what did I study?"
-						},						{
+						},
+						{
 							"answers": [
 								{
 									"answer_start": 21,
@@ -662,7 +672,8 @@
 							"question_original": "What time did I see the customer who was frustrated after eating sweets on 06/06/24?"
 						}
 					]
-				},{
+				},
+				{
 					"context": "No dia 08/06/2024 às 09:00 cliente trouxe carro com problema no sistema de freios. Orçamento estimado de R$180,00. No dia 09/06/2024 às 11:15 carro rebocado para oficina com vazamento de óleo. Orçamento previsto R$400,00. No dia 10/06/2024 às 15:00 cliente preocupado com mau cheiro. Limpeza do sistema de ar condicionado R$150,00.",
 					"context_original": "On 06/08/2024 at 09:00 a customer brought a car with a problem with the brake system. Estimated budget of $180.00. On 06/09/2024 at 11:15 car towed to workshop with oil leak. Estimated budget $400.00. On 06/10/2024 at 3:00 pm customer concerned about bad smell. Cleaning the air conditioning system $150.00.",
 					"qas": [
@@ -717,7 +728,8 @@
 							"id": "509eb67d6c83bcf28fcf4883",
 							"question": "Qual valor da limpeza do sistema de ar condicionado do dia 10/06/2024?",
 							"question_original": "What is the cost of cleaning the air conditioning system on 06/10/2024?"
-						},						{
+						},
+						{
 							"answers": [
 								{
 									"answer_start": 268,
