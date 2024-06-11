@@ -743,6 +743,63 @@
 							"question_original": "On 06/10/24, what was the customer concerned about?"
 						}
 					]
+				},{
+					"context": "No dia 01/05/2024 às 07:00 comecei a treinar com personal na academia. Treino foi de pernas e quando acabou me senti cansado. Precisei descer de elevador para ir embora porque minhas pernas estavam fracas.",
+					"qas": [
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Que dia comecei a treinar na academia?",
+							"id": "509eb67d6c83bcf28fcf4821",
+							"question_original": "What day did I start training at the gym?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Que dia treinei pernas?",
+							"id": "509eb67d6c83bcf28fcf4823",
+							"question_original": "What day did I train legs?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 0,
+									"text": "No dia 01/05/2024",
+									"answer_start_original": 0,
+									"text_original": "On 05/01/2024"
+								}
+							],
+							"question": "Quando precisei descer de elevador para ir embora?",
+							"id": "509eb67d6c83bcf28fcf4825",
+							"question_original": "When did I need to take the elevator down to leave?"
+						},
+						{
+							"answers": [
+								{
+									"answer_start": 21,
+									"text": "07:00",
+									"answer_start_original": 17,
+									"text_original": "07:00"
+								}
+							],
+							"question": "Que horas foi o treino com o personal da academia?",
+							"id": "509eb67d6c83bcf28fcf4827",
+							"question_original": "What time was the training with the gym staff?"
+						}
+					],
+					"context_original": "On 05/01/2024 at 07:00 I started training with personal trainers at the gym. Training was for legs and when it ended I felt tired. I had to take the elevator down to leave because my legs were weak."
 				}
 			]
 		}
